@@ -47,7 +47,7 @@ def meeting_sentiment(keywords):
     sentiment_score = '0'  # for now
     # This needs to be explained by Tshepo
     # my thinking:
-    # mean of the sentiment of keywords_from_text to provide overall setiment of meeting
+    # mean of the sentiment of keywords_from_text to provide overall sentiment
     return sentiment_score
 
 
